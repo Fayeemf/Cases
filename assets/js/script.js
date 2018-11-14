@@ -27,7 +27,7 @@ var projects = [
     },
     {
         title: "Subhan Tariq",
-        desc: "Info Gatherer.",
+        desc: "Info Gatherer + Slide Helper.",
         img: "Ashrafulg.png",
         link: "https://www.facebook.com/ashraful.hassan.184"
     },
